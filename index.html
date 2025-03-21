@@ -81,24 +81,9 @@
         body {
           transform: scale(0.9);
           transform-origin: top center;  /* 缩放基准点为顶部居中 */
-          width: 111.11%;               /* 计算方式：100% / 0.9 ≈ 111.11% */
-          min-height: 111.11vh;         /* 适配高度 */
-          margin: 0 auto;               /* 居中 */
-          overflow-x: hidden;           /* 隐藏横向溢出 */
+          
         }
       
-        /* 修复导航栏位置偏移 */
-        #mainNav {
-          transform: scale(1) !important; /* 导航栏不缩放 */
-          margin-left: -5.55%;           /* 抵消 body 宽度增加的影响 */
-          width: 111.11%;                /* 与 body 宽度一致 */
-        }
-      
-        /* 修复 MathJax 公式位置 公式恢复原始大小（1/0.9≈1.1111）*/
-        /* mjx-container {
-          transform: scale(1.1111);     
-          transform-origin: 0 0;
-        } */
     </style>
 
 
