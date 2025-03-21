@@ -1,13 +1,5 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding Graduates of HFUT, 2024
 
-- First-prize Scholarship of CUMT, 2024.
+- First Prize in CSP Senior Division, 2019.
 
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- Third Prize in National Olympiad in Informatics in Provinces(NOIP) Senior Division, 2018

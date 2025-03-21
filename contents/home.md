@@ -1,16 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
+<!-- 静态徽章 -->
+[![Static Badge](https://img.shields.io/badge/shiwei-github-blue)](https://github.com/ShiWei-dev)
+[![Static Badge](https://img.shields.io/badge/shiwei-csdn-blue)](https://github.com/ShiWei-dev)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I'm currently pursuing a Master's Degree, in UCAS, China.
 
 #### Email
-sli[at]cumt.edu.cn
+shiwei24@ucas.ac.cn | shiwei.link@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Electronic Information Engineering, University of Chinese Academy of Sciences, 2024—2027 (expected).\
+B.E., Vehicle Engineering, Hefei University of Technology, 2020—2024.
+<!-- 欧美：常用 Automotive Engineering。 -->
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Artificial Intelligence, Reinforcement Learning, Deep Learning.
