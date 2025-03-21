@@ -79,10 +79,12 @@
     <style>
         /* 整体缩放为 90% */
         body {
-          transform: scale(0.9);
-          transform-origin: top center;  /* 缩放基准点为顶部居中 */ 
-        }
-      
+            transform: scale(0.9);
+            transform-origin: top center;  /* 缩放基准点为顶部居中 */ 
+            width: calc(100% / 0.9);
+            height: calc(100% / 0.9);
+            overflow-x: hidden; /* 如果有多余部分，可以隐藏水平滚动条 */
+        }   
     </style>
 
 
