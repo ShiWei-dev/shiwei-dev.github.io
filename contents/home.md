@@ -7,7 +7,7 @@
 I'm currently pursuing a Master's Degree, in UCAS, China.
 
 #### Email
-shiwei24@ucas.ac.cn | shiwei.link@gmail.com
+shiwei24@mails.ucas.ac.cn | shiwei.link@gmail.com
 
 #### Education
 M.E., Electronic Information Engineering, University of Chinese Academy of Sciences, *2024—2027 (expected)*.\
