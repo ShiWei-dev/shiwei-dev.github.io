@@ -8,7 +8,7 @@ email: your-email@domain.com
 #   PhD Student/Candidate at [University Name].
 # title: "主页姓名 | 全栈开发者 & UI设计师"
 # baseurl: ""
-baseurl: "/my-portfolio" # 如果是自定义域名，留空；如果是 username.github.io/repo-name，填 "/repo-name"
+baseurl: "" # 如果是自定义域名，留空；如果是 username.github.io/repo-name，填 "/repo-name"
 url: "https://shiwei-dev.github.io" # 您的最终域名
 
 # ==========================================
