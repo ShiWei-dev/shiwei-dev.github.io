@@ -40,7 +40,7 @@ Previously, I worked as a Full-Stack Developer, which gave me a strong engineeri
 
 ## Selected Publications
 
-### Policy Optimization with Deep RL for Robotic Control <span class="pub-year">20xx</span>
+### Example：a paper title <span class="pub-year">20xx</span>
 
 **Your Name**, Advisor Name, Collaborator A
 {:.text-accent}
