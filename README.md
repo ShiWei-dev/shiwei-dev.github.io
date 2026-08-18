@@ -3,6 +3,37 @@
 这是一个基于 [Jekyll](https://jekyllrb.com/) 构建的现代学术个人主页模板，专为科研人员、博士生和工程师设计。它托管于 GitHub Pages，无需服务器维护，支持 Markdown 写作，并拥有干净、专业的学术风格。
 - 生成于2025.12.17 By Gemini
 
+---
+
+## ⚠️ 重要：Fork 后必须修改
+
+如果你 fork 或使用了这个项目作为模板，**必须**进行以下修改：
+
+### 1. 替换 Formspree Form ID（表单服务）
+
+**文件位置：** `contact.html` 第 68 行
+
+当前配置：
+```html
+<form action="https://formspree.io/f/xnneeljq" method="POST">
+```
+
+**必须做的事**：
+1. 访问 [Formspree.io](https://formspree.io) 注册你自己的免费账号
+2. 创建一个新的表单，获取你的 Form ID
+3. 替换 `xnneeljq` 为你自己的 Form ID
+
+⚠️ **如果不替换**，所有通过你网站发送的表单消息都会发送到原作者的邮箱！
+
+### 2. 修改个人信息
+
+请参考下方的"自定义指南"修改：
+- `_config.yml`：姓名、邮箱、社交链接
+- `index.html`：简介、研究方向、项目
+- `about.md`：详细履历
+
+---
+
 ## 🚀 特性
 
 * **纯静态 & 快速**：无后端数据库，加载速度极快。

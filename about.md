@@ -40,7 +40,7 @@ Previously, I worked as a Full-Stack Developer, which gave me a strong engineeri
 
 ## Selected Publications
 
-### Policy Optimization with Deep RL for Robotic Control <span class="pub-year">2024</span>
+### Policy Optimization with Deep RL for Robotic Control <span class="pub-year">20xx</span>
 
 **Your Name**, Advisor Name, Collaborator A
 {:.text-accent}
@@ -48,7 +48,7 @@ Previously, I worked as a Full-Stack Developer, which gave me a strong engineeri
 * *ICRA 2024 (Acceptance Rate: 20%)*
 * [PDF](#) & [Code](#)
 
-### Another Important Paper Title Here <span class="pub-year">2023</span>
+### Another Important Paper Title Here <span class="pub-year">20xx</span>
 
 **Your Name**, Collaborator B
 {:.text-accent}
